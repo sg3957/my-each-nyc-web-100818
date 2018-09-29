@@ -3,3 +3,4 @@ def my_each(array)
   while count < array.size 
   yield(array[count])
 end
+end
