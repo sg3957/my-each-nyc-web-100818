@@ -5,4 +5,3 @@ def my_each(array)
   count++
 end
 end
-end
